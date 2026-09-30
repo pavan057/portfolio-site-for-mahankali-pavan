@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Mahankali Pavan',
-  role: 'Software Engineer · AI Evaluation Engineer & Benchmark Task Author',
+  role: 'I build reliable backends and the benchmarks that test AI agents.',
   location: 'Hyderabad, Telangana, India',
   locationShort: 'Hyderabad, India',
   email: 'mahankalipavan5811@gmail.com',
